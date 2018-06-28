@@ -9,8 +9,11 @@ ionic3,adnroid,ios,url schemes
 
 ## Installation
 > Install: npm install @ionic-native/app-availability
+>
 > Install: npm install @ionic-native/in-app-browser
+>
 > Install: cordova plugin add add com.lampa.startapp
+>
 
 # ANDROID
 - use com.lampa.startapp
